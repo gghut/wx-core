@@ -6,6 +6,9 @@ import space.ggh.wx.exception.ConfigException;
 import space.ggh.wx.param.UniformMessage;
 import space.ggh.wx.param.WxAppTemplateMessage;
 
+/**
+ * 微信小程序对象，提供微信小程序的API接口
+ */
 public class WxMiniApp extends WxCore {
 
     public static void main(String[] args){
